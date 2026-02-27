@@ -1,0 +1,5 @@
+{
+  "name": "API Cmp",
+  "description": "A comprehensive dashboard for managing TikTok Business API integrations, featuring role-based access control, campaign visualization, and Gemini AI-powered ad copy generation.",
+  "requestFramePermissions": []
+}
